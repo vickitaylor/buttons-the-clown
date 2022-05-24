@@ -1,0 +1,64 @@
+{
+  "parties": [
+    {
+      "parentName": "Willow Glitterspoon",
+      "childName": "Starmoon Glitterspoon",
+      "partySize": 15,
+      "address": "69 Wild Horse St.",
+      "date": "2022-06-20",
+      "length": 5,
+      "id": 2
+    },
+    {
+      "parentName": "Beetlefluff Crystalhaze",
+      "childName": "Stewgnash FallenSnow",
+      "partySize": 25,
+      "address": "299 S. Pine Drive",
+      "date": "2022-06-08",
+      "length": 4,
+      "id": 4
+    },
+    {
+      "parentName": "Sparklekiss Gigglewind",
+      "childName": "Perfectman Glitterspice",
+      "partySize": 23,
+      "address": "9982 North Pineknoll Street",
+      "date": "2022-07-06",
+      "length": 6,
+      "id": 5
+    },
+    {
+      "parentName": "Lil Killa Easy Rock",
+      "childName": "Spidergut Ratchet",
+      "partySize": 10,
+      "address": "7214 Oakland Ave.",
+      "date": "2022-06-08",
+      "length": 3,
+      "id": 6
+    }
+  ],
+  "workers": [
+    {
+      "id": 1,
+      "name": "Buttons"
+    },
+    {
+      "id": 2,
+      "name": "Lollipop"
+    }
+  ],
+  "jobs": [
+    {
+      "requestId": 4,
+      "workerId": 2,
+      "date_created": 1653330884825,
+      "id": 1
+    },
+    {
+      "requestId": 6,
+      "workerId": 1,
+      "date_created": 1653330972928,
+      "id": 2
+    }
+  ]
+}
